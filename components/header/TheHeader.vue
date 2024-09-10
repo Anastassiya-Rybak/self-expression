@@ -11,5 +11,9 @@
 </script>
 
 <style lang="scss" scoped>
-
+    .header {
+        &__nav {
+            
+        }
+    }
 </style>

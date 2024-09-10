@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
   css: ['~/assets/scss/global.scss'],
+
   vite: {
     css: {
       preprocessorOptions: {
@@ -12,4 +13,6 @@ export default defineNuxtConfig({
       },
     },
   },
+
+  modules: ['@nuxt/image'],
 })
