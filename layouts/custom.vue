@@ -1,7 +1,7 @@
 <template>
     <section class="custom-layout container">
         <TheSideBar />
-        <slot />
+        <slot class="page-content" />
         <TheCompactBar />
     </section>
 </template>
@@ -10,4 +10,12 @@
 </script>
 
 <style lang="scss">
+    .custom-layout {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .page-content {
+        width: 65%;
+    }
 </style>

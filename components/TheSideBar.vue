@@ -23,8 +23,9 @@
 
 <style lang="scss" scoped>
     .nav {
-        width: 25%;
+        width: 20%;
         background-color: $accent;
+        box-shadow: 0 0 1em rgba(77, 67, 41, 0.226);
 
         &__list {
             height: 100dvh;
