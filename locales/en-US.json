@@ -1,0 +1,587 @@
+{
+    "home_title": "ISKRA SERVICE",
+    "description": "High-quality tires for large equipment.",
+    "layout": {
+        "header": {
+            "nav": {
+                "main": "MAIN",
+                "catalog": "CATALOG",
+                "contacts": "CONTACTS"
+            },
+            "search": {
+                "btn": "Search",
+                "placeholder": "Enter product name / properties"
+            }
+        },
+        "mailing": {
+            "title": "Be the first to know about the most relevant offers!"
+        },
+        "modal": {
+            "fill_the_form": "FILL OUT THE FORM",
+            "send_request": "SEND REQUEST",
+            "call_placeholder": "Phone number",
+            "name_placeholder": "How should we address you?",
+            "email_placeholder": "Email for communication",
+            "message_placeholder": "Describe the request",
+            "method": "Contact method",
+            "btn_add": "Add",
+            "choose_product": "Select product"
+        },
+        "footer": {
+            "title": "CONTACT US",
+            "adress": "Karaganda, Pazl Business Center (Bukhar-Zhyrau Avenue, 57/1)",
+            "adress_alt": "Address",
+            "tel_alt": "Phone",
+            "email_alt": "Email Address"
+        },
+        "btns": {
+            "call_btn": "CALL BACK",
+            "open": "OPEN CATALOG",
+            "application": "SUBMIT APPLICATION",
+            "close_btn": "Close",
+            "contact_me": "CONTACT ME",
+            "back": "BACK",
+            "more": "READ MORE",
+            "filter": "FILTER",
+            "filter_go": "APPLY",
+            "reset": "RESET SEARCH | RESET PARAMETERS",
+            "follow": "FOLLOW",
+            "ready": "READY!"
+        }
+    },
+    "main": {
+        "first_block": {
+            "title": "ISKRA SERVICE",
+            "paragraf_1": "High-quality tires allow maximizing the performance of your vehicle fleet and reducing operational costs.",
+            "paragraf_2": "The tires we supply comply with official standards and certification requirements worldwide."
+        },
+        "second_block": {
+            "span": "WE OFFER",
+            "h3": "RADIAL AND BIAS",
+            "h2": "LARGE-SIZED TIRES",
+            "link": "GO TO THE FULL PRODUCT LIST",
+            "categories": {
+                "1": "DUMP TRUCKS WITH A RIGID FRAME",
+                "2": "ARTICULATED DUMP TRUCKS",
+                "3": "LOADERS AND BULLDOZERS",
+                "4": "GRADERS",
+                "5": "UNDERGROUND EQUIPMENT",
+                "6": "MOBILE CRANES",
+                "7": "SCRAPERS",
+                "8": "SPECIAL AND PORT EQUIPMENT",
+                "9": "EQUIPMENT FOR DESERT CONDITIONS",
+                "10": "ROAD ROLLERS"
+            }
+        },
+        "third_block": {
+            "title": "Popular Positions"
+        }
+    },
+    "products": {
+        "rd": "RADIAL | DIAGONAL",
+        "description": {
+            "1": {
+                "1": "Durable tire for harsh mining and quarry conditions",
+                "2": "Deep tread combined with strong shoulder and sidewall provide excellent traction and high stability",
+                "3": "Deep tread for protection against cuts and chips",
+                "4": "Choice of compound for specific applications ensures exceptionally low heat generation",
+                "5": "Unique design and deep tread increase tire lifespan"
+            },
+            "2": {
+                "1": "Aggressive and self-cleaning tread design for superior traction in rugged off-road conditions",
+                "2": "Unique compound and tread pattern ensure high speed with minimal fuel consumption",
+                "3": "Radial construction enhances wear resistance and driving comfort"
+            },
+            "3": {
+                "1": "Radial traction tire for earthmoving applications",
+                "2": "Non-directional aggressive tread pattern provides excellent traction and stability",
+                "3": "Unique compound enhances resistance to wear and cuts",
+                "4": "Robust radial construction reduces tire heat and increases comfort"
+            },
+            "4": {
+                "1": "Radial traction tires for earthmoving applications",
+                "2": "Large blocky tread pattern for protection against cuts and chips",
+                "3": "Reinforced sidewall for protection and extended tire life"
+            },
+            "5": {
+                "1": "Radial traction tires for earthmoving applications",
+                "2": "Superior traction pattern improves grip",
+                "3": "Good protection against cuts and chips increases mileage",
+                "4": "Durable casing construction for increased impact resistance and resistance to cuts"
+            },
+            "6": {
+                "1": "Radial traction tires with excellent wear resistance",
+                "2": "Wide aggressive tread pattern for excellent handling, grip, and lateral adhesion",
+                "3": "Sturdy shoulder and reinforced sidewall provide high resistance to damage in harsh conditions",
+                "4": "Robust casing construction for increased impact resistance and resistance to cuts"
+            },
+            "7": {
+                "1": "Superior radial tire for uneven and rigid surfaces",
+                "2": "Solid top tread with deep grooves to reduce vibration and increase stability",
+                "3": "Reinforced shoulder construction provides a large contact patch for exceptional stability",
+                "4": "Durable sidewall for additional protection against wear and damage"
+            },
+            "8": {
+                "1": "Massive and deep tread pattern increases tire lifespan",
+                "2": "Choice of compound for specific applications enhances performance",
+                "3": "Radial construction reduces wear and heat during rolling"
+            },
+            "9": {
+                "1": "Radial tire providing excellent traction and even wear of the tread",
+                "2": "Deep tread with lugs ensures even pressure distribution, improving handling and traction",
+                "3": "Shoulder lugs provide sidewall protection against cuts and enhance tread self-cleaning",
+                "4": "Tread pattern and unique compound ensure even wear and long lifespan",
+                "5": "Radial construction for increased wear resistance and driving comfort"
+            },
+            "10": {
+                "1": "Durable tire for harsh mining and quarry conditions",
+                "2": "Deep tread combined with strong shoulder and sidewall provide excellent protection",
+                "3": "Choice of compound for specific applications enhances performance",
+                "4": "Deep tread with a unique design increases mileage"
+            },
+            "11": {
+                "1": "Superior radial tire for uneven and rigid surfaces",
+                "2": "Continuous central part of the tread improves pressure distribution upon contact and reduces wear",
+                "3": "Massive shoulder blocks for increased strength and protection of sidewalls",
+                "4": "Unique compound for enhanced resistance to cuts and tears"
+            },
+            "12": {
+                "1": "Universal radial tire for loaders, bulldozers, and other equipment",
+                "2": "Wide aggressive tread pattern provides excellent maneuverability and grip, as well as lateral adhesion",
+                "3": "Sturdy shoulder and reinforced sidewall ensure excellent resistance to damage",
+                "4": "Robust carcass construction for increased impact resistance and resistance to cuts"
+            },
+            "13": {
+                "1": "Outstanding traction radial tire for soft muddy terrain",
+                "2": "Open lug construction for excellent traction and maneuverability",
+                "3": "Unique tread pattern for improved self-cleaning efficiency",
+                "4": "Robust construction for increased impact resistance"
+            },
+            "14": {
+                "1": "Superior traction radial tire with exceptional reliability for transportation applications",
+                "2": "Aggressive self-cleaning tread pattern for superior traction, off-road capability, and long lifespan",
+                "3": "Robust shoulder construction for reinforced sidewall protection",
+                "4": "Unique compound for extended tread life and effective fuel savings",
+                "5": "Robust carcass construction for increased impact resistance and resistance to damage"
+            },
+            "15": {
+                "1": "Radial tire providing excellent traction and exceptional reliability",
+                "2": "Aggressive self-cleaning tread pattern for excellent traction, off-road capability, and long lifespan",
+                "3": "Robust shoulder construction for reinforced sidewall protection against cuts",
+                "4": "Unique compound for extended tread life and effective fuel savings",
+                "5": "Robust carcass construction for increased impact resistance and resistance to damage"
+            },
+            "16": {
+                "1": "Radial tire with excellent traction for use on uneven road surfaces",
+                "2": "Non-directional aggressive tread pattern provides exceptional grip and stability",
+                "3": "Deep grooves for skid resistance",
+                "4": "Intersection of shoulder and sidewall ensures increased resistance to damage"
+            },
+            "17": {
+                "1": "Highly efficient radial tire for uneven and hard road surfaces",
+                "2": "Continuous central part for better distribution of contact pressure and reduced wear",
+                "3": "Massive shoulder blocks for increased strength and protection of sidewalls",
+                "4": "Unique compound for enhanced resistance to cuts and tears"
+            },
+            "18": {
+                "1": "All-season radial tires with excellent grip on snowy and icy road surfaces",
+                "2": "Aggressive tread design with high-intensity siping for excellent control on snow and ice",
+                "3": "Wide non-directional tread pattern for year-round use",
+                "4": "Unique compound for increased wear resistance",
+                "5": "Robust construction extends tire lifespan"
+            },
+            "19": {
+                "1": "Universal radial tire for loaders, bulldozers, and other equipment",
+                "2": "Wide aggressive tread pattern for superior maneuverability, excellent grip, and lateral adhesion",
+                "3": "Sturdy shoulder and reinforced sidewall provide high resistance to damage and aggression",
+                "4": "Robust carcass construction for increased impact resistance and resistance to cuts"
+            },
+            "20": {
+                "1": "Superior radial tire for challenging conditions",
+                "2": "Open aggressive tread pattern for outstanding traction properties",
+                "3": "Uniform groove depth for excellent grip throughout the tire's lifespan",
+                "4": "Robust shoulder construction for increased stability and sidewall protection"
+            },
+            "21": {
+                "1": "Superior radial traction tire with excellent performance in soft mud",
+                "2": "Open lug construction for excellent traction and maneuverability",
+                "3": "Unique tread pattern for improved self-cleaning efficiency",
+                "4": "Robust construction for increased impact resistance"
+            },
+            "22": {
+                "1": "Outstanding radial traction tires of exceptional reliability for transportation applications",
+                "2": "Aggressive self-cleaning tread pattern for excellent traction, off-road capability, and long lifespan",
+                "3": "Robust shoulder area construction for reinforced sidewall protection",
+                "4": "Unique compound increases mileage and saves fuel",
+                "5": "Robust carcass construction for increased impact resistance and resistance to cuts"
+            },
+            "23": {
+                "1": "Ideal radial tire for challenging operating conditions",
+                "2": "Aggressive open tread pattern for excellent traction and superior grip",
+                "3": "Uniform groove depth for excellent grip throughout the tire's lifespan",
+                "4": "Robust shoulder construction for increased stability and sidewall protection"
+            },
+            "24": {
+                "1": "Durable radial tires for harsh road conditions",
+                "2": "Superior traction design for grip",
+                "3": "Ultra-deep tread for preventing cuts and chips",
+                "4": "Good handling and stability"
+            },
+            "25": {
+                "1": "Radial tires providing excellent traction and high reliability",
+                "2": "Aggressive self-cleaning tread design ensures excellent traction, high off-road capability, and long service life",
+                "3": "Durable shoulder design to enhance sidewall protection",
+                "4": "Unique compound for increased mileage and fuel efficiency",
+                "5": "Robust construction improves impact and cut resistance"
+            },
+            "26": {
+                "1": "Durable radial tire for challenging operating conditions",
+                "2": "Ultra-deep tread increases tire lifespan, enhances traction, and improves off-road capability",
+                "3": "Massive reinforced shoulders for increased resistance to damage",
+                "4": "Unique compound and robust carcass for additional protection"
+            },
+            "27": {
+                "1": "All-season radial tire with exceptional grip on snowy and icy road surfaces",
+                "2": "Aggressive tread design with numerous sipes for maximum control on snow and ice",
+                "3": "Wide non-directional tread pattern for year-round use",
+                "4": "Unique compound enhances wear resistance",
+                "5": "Robust construction extends tire lifespan"
+            },
+            "28": {
+                "1": "Radial tire with excellent traction for use on uneven surfaces",
+                "2": "Non-directional aggressive tread pattern for high traction and stability",
+                "3": "Deep tread pattern reduces slippage",
+                "4": "Intersection of shoulder and sidewall provides increased resistance to damage"
+            },
+            "29": {
+                "1": "Traction radial tire for use on uneven road surfaces",
+                "2": "Non-directional aggressive tread pattern ensures exceptional traction and high stability",
+                "3": "Unique compound for increased resistance to cuts and extended tire life",
+                "4": "Robust radial construction for improved cooling and driving comfort"
+            },
+            "30": {
+                "1": "Traction radial tire for mining equipment",
+                "2": "Deeper tread for increased mileage and improved traction",
+                "3": "Unique compound for extended lifespan and resistance to tears",
+                "4": "Radial construction enhances wear resistance and smooth movement"
+            },
+            "31": {
+                "1": "Radial tire with a smooth tread for loaders operating in harsh conditions",
+                "2": "Smooth tread pattern eliminates tears, provides smooth ride, and high wear resistance",
+                "3": "Unique compound for long service life and increased resistance to cuts",
+                "4": "Radial construction improves wear and tire cooling",
+                "5": "Robust carcass construction for increased impact resistance and resistance to cuts"
+            },
+            "32": {
+                "1": "Durable radial tire for harsh conditions",
+                "2": "Ultra-deep tread improves off-road capability and traction, contributing to increased mileage",
+                "3": "Massive reinforced shoulders for increased resistance to damage",
+                "4": "Unique compound and robust carcass for additional protection",
+                "5": "Robust carcass construction for increased impact resistance and resistance to cuts"
+            },
+            "33": {
+                "1": "Smooth radial tire for loaders operating in harsh conditions",
+                "2": "Ultra-deep tread ensures high wear resistance",
+                "3": "Smooth tread pattern eliminates tears, providing a smooth ride and long mileage",
+                "4": "Unique compound for long tread life and increased resistance to cuts",
+                "5": "Radial construction improves wear and cooling capability",
+                "6": "Robust carcass construction for increased impact resistance and resistance to cuts"
+            },
+            "34": {
+                "1": "Superior design for high-speed mobile cranes",
+                "2": "Symmetrical rib design for comfort at high speeds",
+                "3": "Longitudinal shoulder construction provides good grip and even wear",
+                "4": "Innovative crown zone with stepped grooves prevents stone retention and enhances traction",
+                "5": "Reinforced ribs connecting to the shoulder blocks ensure overall highway performance"
+            },
+            "35": {
+                "1": "High-speed mobile cranes for on-road and off-road operation",
+                "2": "Aggressive and self-cleaning tread design for excellent traction in heavy off-road conditions",
+                "3": "Unique compound and tread pattern provide high speed with minimal fuel consumption",
+                "4": "Radial construction enhances wear resistance and comfort during movement"
+            },
+            "36": {
+                "1": "High-speed mobile cranes for on-road and off-road operation",
+                "2": "Aggressive tread design for superior traction",
+                "3": "Unique compound and tread pattern provide high speed with minimal fuel consumption",
+                "4": "Radial construction improves wear resistance and comfort during movement"
+            },
+            "37": {
+                "1": "Universal radial tires for loaders, bulldozers, and other equipment",
+                "2": "Wide aggressive tread pattern for good handling, excellent traction, and lateral adhesion",
+                "3": "Durable shoulder and reinforced sidewall provide excellent resistance to damage",
+                "4": "Robust carcass construction for increased impact resistance and resistance to cuts"
+            },
+            "38": {
+                "1": "Radial tires for scrapers with increased traction",
+                "2": "Open tread pattern with large blocks for superior traction",
+                "3": "Reinforced shoulder for enhanced protection in heavy-duty conditions",
+                "4": "Special tread compound for extended tread life",
+                "5": "Robust construction for increased impact resistance and resistance to cuts"
+            },
+            "39": {
+                "1": "Traction radial tire for uneven terrain",
+                "2": "Non-directional aggressive tread pattern provides excellent traction and stability",
+                "3": "Unique compound for increased resistance to cuts and extended tread life",
+                "4": "Robust radial construction to reduce overheating and increase comfort"
+            },
+            "40": {
+                "1": "Universal industrial radial tire",
+                "2": "Wide aggressive tread pattern for excellent handling, superior traction, and lateral protection",
+                "3": "Durable shoulder and reinforced sidewall provide excellent resistance to damage and loads",
+                "4": "Robust carcass construction for increased impact resistance and resistance to cuts"
+            },
+            "41": {
+                "1": "Traction radial tire for uneven terrain",
+                "2": "Tread pattern and shoulder zone provide good protection against cuts and chips",
+                "3": "Special construction for heavy loads and harsh operating conditions"
+            },
+            "42": {
+                "1": "Traction radial tire for container transport",
+                "2": "Deeper tread for high wear resistance and traction",
+                "3": "Unique compound for wear resistance in port areas",
+                "4": "Radial construction increases wear resistance and smoothes the ride"
+            },
+            "43": {
+                "1": "Radial tire for port equipment",
+                "2": "Tread pattern with ground hooks and robust shoulder for traction and stability",
+                "3": "Unique compound for wear resistance in port areas",
+                "4": "Reinforced carcass for port applications"
+            },
+            "44": {
+                "1": "Traction diagonal tires for loaders and bulldozers",
+                "2": "Non-directional tread pattern provides excellent traction and stability",
+                "3": "Unique compound reduces wear and increases resistance to cuts",
+                "4": "Robust construction for impact and cut resistance"
+            },
+            "45": {
+                "1": "Highly efficient universal diagonal tire for off-road use",
+                "2": "Wide tread enhances mobility and comfort",
+                "3": "Unique compound improves overall wear resistance",
+                "4": "Reinforced construction for increased impact resistance"
+            },
+            "46": {
+                "1": "Multifunctional diagonal tire for off-road use",
+                "2": "Enhanced tread design provides superior traction",
+                "3": "Unique compound increases mileage and improves wear resistance",
+                "4": "Robust diagonal construction protects against cuts and impacts"
+            },
+            "47": {
+                "1": "Diagonal tires with ultra-deep tread for improved wear resistance and traction",
+                "2": "Deep tread for increased mileage and traction",
+                "3": "Unique compound for extended tread life and resistance to tears",
+                "4": "Robust construction for increased impact and cut resistance"
+            },
+            "48": {
+                "1": "Traction diagonal tire for use in various conditions",
+                "2": "Tread design improves traction on soft soil",
+                "3": "Open shoulder grooves enhance grip and reduce slippage",
+                "4": "Unique compound for long tread life and increased resistance to cuts",
+                "5": "Robust construction for increased impact resistance and cut resistance"
+            },
+            "49": {
+                "1": "Highly efficient universal diagonal tire for off-road use",
+                "2": "Wide tread enhances mobility and comfort",
+                "3": "Unique compound improves overall wear resistance",
+                "4": "Reinforced construction for increased impact resistance"
+            },
+            "50": {
+                "1": "Diagonal tires for graders with improved traction characteristics",
+                "2": "Open tread pattern with large blocks for superior traction",
+                "3": "Reinforced shoulder of the tread for enhanced protection in heavy-duty conditions",
+                "4": "Special tread compound for extended tread life",
+                "5": "Strong construction for increased impact resistance and cut resistance"
+            },
+            "51": {
+                "1": "Wear-resistant tire for port equipment",
+                "2": "Solid central section for increased wear resistance and smooth movement",
+                "3": "Deep tread improves mileage and traction",
+                "4": "Large rubber coverage increases tire life",
+                "5": "Robust construction for protection against impacts and cuts"
+            },
+            "52": {
+                "1": "Wear-resistant tire for port equipment",
+                "2": "Solid central section for increased wear resistance and smooth movement",
+                "3": "Deep tread improves mileage and traction",
+                "4": "Large rubber coverage increases tire life",
+                "5": "Robust construction for protection against impacts and cuts"
+            },
+            "53": {
+                "1": "Highly efficient, multifunctional diagonal tires for off-road use",
+                "2": "Wide tread enhances mobility and comfort during movement",
+                "3": "Unique compound for improved overall wear resistance",
+                "4": "Robust construction for protection against impacts"
+            },
+            "54": {
+                "1": "Multifunctional maneuverable tire for roads and off-road",
+                "2": "Universal tread design for a balance of traction and even wear",
+                "3": "Unique compound for improved performance on different surfaces",
+                "4": "Robust construction for reliable support in all wheel positions"
+            },
+            "55": {
+                "1": "Ultra-maneuverable tire for use on soft, fine-grain sand",
+                "2": "Special tread design to enhance grip and traction",
+                "3": "Asymmetrical tread pattern for self-cleaning",
+                "4": "Wide tread and good mobility for sand applications"
+            },
+            "56": {
+                "1": "Ultra-maneuverable tire for use on soft, fine-grain sand",
+                "2": "Wide and uniform rib construction for good traction",
+                "3": "Unique compound to improve performance",
+                "4": "Robust construction for reliable support in all wheel positions"
+            },
+            "57": {
+                "1": "Maneuverable tire for use on sand",
+                "2": "Wave-like tread pattern provides traction and control",
+                "3": "Shoulder area with lamellas for self-cleaning",
+                "4": "Robust construction for reliable support in all wheel positions"
+            },
+            "58": {
+                "1": "Ultra-maneuverable tire for use on soft, fine-grain sand",
+                "2": "Even wear of ribs for high traction",
+                "3": "Unique compound to improve performance",
+                "4": "Robust construction for reliable support in all wheel positions"
+            },
+            "59": {
+                "1": "Excellent design for pneumatic rollers",
+                "2": "Smooth tread pattern for a vibratory roller",
+                "3": "Special compound preventing oil contamination and heat-resistant"
+            },
+            "60": {
+                "1": "Multifunctional maneuverable tire for roads and off-road",
+                "2": "Universal tread design for a balance of traction and even wear",
+                "3": "Compound for improved performance on different surfaces",
+                "4": "Robust construction for reliable support in all wheel positions"
+            },
+            "61": {
+                "1": "Maneuverable tire for roads and off-road",
+                "2": "Universal tread design for a balance of traction and even wear",
+                "3": "Tread pattern provides smooth and comfortable movement",
+                "4": "Robust construction for reliable support in all wheel positions"
+            },
+            "62": {
+                "1": "Ultra-maneuverable tire for use on soft, fine-grain sand",
+                "2": "Special tread design for traction and grip",
+                "3": "Asymmetrical tread design for self-cleaning",
+                "4": "Wide tread for good traction on sand",
+                "5": "Robust construction for reliable support in all wheel positions"
+            },
+            "63": {
+                "1": "Multifunctional diagonal tires for increased mobility",
+                "2": "Open tread design to increase off-road traction",
+                "3": "Unique compound to improve overall tread wear resistance",
+                "4": "Robust construction to enhance resistance to impacts and cuts"
+            },
+            "64": {
+                "1": "Diagonal tires for dump trucks with increased traction",
+                "2": "Tread pattern with large ground hooks for superior traction",
+                "3": "Reinforced casing for heavy quarry dump trucks",
+                "4": "Specially formulated tread compound for protection against cuts and chipping"
+            },
+            "65": {
+                "1": "Premium multifunctional diagonal tire for rigid road surfaces",
+                "2": "Wide tread for increased mobility and more comfortable driving",
+                "3": "Unique compound for improved overall wear resistance",
+                "4": "Robust construction to enhance resistance to impacts"
+            },
+            "66": {
+                "1": "Traction tires with reinforced wear resistance",
+                "2": "Large central part of the tire for high wear resistance and smooth ride",
+                "3": "Deep tread provides high wear resistance and increased grip",
+                "4": "Unique compound for a long service life and resistance to cuts",
+                "5": "Robust construction for increased impact resistance and resistance to cuts"
+            },
+            "67": {
+                "1": "Diagonal tire with a smooth tread for harsh operating conditions",
+                "2": "Smooth tread pattern eliminates tears and ensures smooth and low-wear movement",
+                "3": "Unique compound for a long service life and high resistance to cuts"
+            },
+            "68": {
+                "1": "Diagonal tire with a smooth tread for loaders and harsh operating conditions",
+                "2": "Super-deep tread provides maximum wear resistance",
+                "3": "Smooth tread pattern eliminates tears, ensuring smooth operation",
+                "4": "Unique compound for extended mileage and increased resistance to cuts",
+                "5": "Robust construction for increased impact resistance and resistance to cuts"
+            },
+            "69": {
+                "1": "Large block construction to increase tire life",
+                "2": "Side shoulder blocks for good snow traction",
+                "3": "Special compound and grooves for good winter handling"
+            },
+            "70": {
+                "1": "Large block construction to increase tire life",
+                "2": "Side shoulder blocks for good snow traction",
+                "3": "Special compound and grooves for good winter handling"
+            },
+            "71": {
+                "1": "Special open shoulder design for excellent heat dissipation",
+                "2": "Wide grooves provide excellent road grip, large cord blocks ensure long tire life",
+                "3": "Strong shoulder construction to reduce the risk of side scratches"
+            },
+            "72": {
+                "1": "Multi-purpose two-way tire providing increased mobility",
+                "2": "Open tread pattern to improve off-road traction",
+                "3": "Unique compound to increase overall tread wear and cost per hour",
+                "4": "Robust construction with a staggered pattern for increased resistance to impacts and cuts"
+            },
+            "73": {
+                "1": "Tire with asymmetrical pattern and good heat dissipation",
+                "2": "Adjustable pitch for good heat dissipation",
+                "3": "Durable carcass for good load capacity"
+            },
+            "74": {
+                "1": "Diagonal tire with good puncture resistance",
+                "2": "Large lamella pattern provides good protection against cuts and traction on uneven surfaces",
+                "3": "Strong shoulder construction to reduce the risk of side scratches",
+                "4": "Good maneuverability and stability"
+            },
+            "75": {
+                "1": "Super-smooth tire for loaders with a super-deep tread for heavy-duty operating conditions",
+                "2": "Super-deep tread provides maximum wear",
+                "3": "Smooth tread pattern eliminates tears, ensuring smooth operation and longer service life",
+                "4": "Unique compound for extended tread life and increased resistance to cuts",
+                "5": "Robust construction for increased impact resistance and resistance to cuts"
+            },
+            "76": {
+                "1": "Port tire with extended service life",
+                "2": "Special compound to provide excellent wear and cut characteristics",
+                "3": "Optimized carcass construction for good load capacity in port operating conditions",
+                "4": "Wide tread provides excellent maneuverability and stability"
+            },
+            "77": {
+                "1": "Multipurpose tire for road and off-road travel",
+                "2": "Universal tread pattern for balanced grip and even wear",
+                "3": "Unique compound to improve performance on various surfaces",
+                "4": "Robust construction for reliable support in all wheel positions"
+            },
+            "78": {
+                "1": "Improved tread design to increase tire life"
+            },
+            "79": {
+                "1": "Durable tire for harsh mining and quarry conditions",
+                "2": "Optimized carcass line and block stiffness for better support",
+                "3": "Optimized grooves to prevent stone drilling"
+            }
+        },
+        "table": {
+            "caption": "Specifications",
+            "size": "Size",
+            "idx": "Casing Strength Index",
+            "tube": "Tube",
+            "li_ss": "LI/SS"
+        }
+    },
+    "selects": {
+        "1": "RADIAL/DIAGONAL | RADIAL | DIAGONAL",
+        "2": "APPLICATION",
+        "3": "SIZE",
+        "4": "CASING STRENGTH INDEX",
+        "5": "TUBE"
+    },
+    "contacts": {
+        "title": "COMPANY CONTACTS",
+        "message": "LEAVE A MESSAGE",
+        "textarea": "Message...",
+        "message_btn": "SEND"
+    }
+}

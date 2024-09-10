@@ -1,0 +1,36 @@
+// COLORS
+$main-dark: rgb(26, 26, 26);
+$main-light: rgb(238, 234, 227);
+$accent: #58e6ff;
+$accent2: #fff458;
+
+// mixins
+
+@function calcFlexFontSize($f-min, $f-max) {
+  $k: calc(($f-max - $f-min) / (1440 - 460));
+  $b: $f-min - $k * 460;
+
+  $b: $b * 1px;
+
+  @return calc(#{$k} * 100vw + #{$b});
+}
+
+@mixin media($width) {
+  @media (max-width: $width) {
+    @content
+  }
+};
+
+@mixin hover() {
+  @media (hover: hover){
+    &:hover {
+        @content
+    }
+  };
+
+  @media (hover: none){
+      &:active {
+          @content
+      }
+  };
+}
