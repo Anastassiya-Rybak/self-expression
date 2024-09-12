@@ -15,7 +15,4 @@
         justify-content: space-between;
         align-items: center;
     }
-    .page-content {
-        width: 65%;
-    }
 </style>
