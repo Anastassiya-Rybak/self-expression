@@ -1,7 +1,7 @@
 <template>
     <NuxtLayout name="custom">
         <section class="about-me page-content">
-            <h1 class="about-me__title">ОБО МНЕ</h1>
+            <h1 class="about-me__title title">ОБО МНЕ</h1>
             <span class="about-me__posttitle"> Я - <b>Рыбак Анастасия</b>, Frontend разработчик. </span>
             <p class="about-me__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim cumque officia dolorum harum, 
                 dolor maiores ipsum labore qui recusandae quia, porro modi, quos ad quasi? Reiciendis vel 
@@ -72,11 +72,6 @@
         flex-direction: column;
         align-items: center;
         justify-content: space-between;
-
-        &__title {
-            font-size: 7em;
-            text-align: center;
-        }
 
         &__posttitle,
         &__description {

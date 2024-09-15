@@ -1,7 +1,7 @@
 <template>
     <NuxtLayout name="custom">
         <section class="resume page-content">
-            <h1 class="resume__title">Резюме</h1>
+            <h1 class="resume__title title">Резюме</h1>
             <div class="resume__download">
                 <h2>Тут можно скачать резюме</h2>
                 <button>Скачать</button>
@@ -91,11 +91,6 @@
 
 <style lang="scss" scoped>
     .resume {
-        &__title {
-            font-size: 7em;
-            text-align: center;
-        }
-
         &__download {
             display: flex;
             justify-content: space-between;
