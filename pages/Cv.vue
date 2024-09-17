@@ -77,6 +77,31 @@
                         <li>1C</li>
                     </ol>
                 </section>
+                <section class="resume__content-item">
+                    <h3>Соц. сети</h3>
+                    <ol class="resume__content-item-wrap resume__content-item-wrap_socials">
+                        <li>
+                            <a href="https://www.instagram.com/_obl_ivi_ate_/" target="_blank" rel="noopener noreferrer">
+                                instagram
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/Anastassiya-Rybak" target="_blank" rel="noopener noreferrer">
+                                  github
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto: vyacheslavovna.an@mail.ru" target="_blank" rel="noopener noreferrer">
+                                почта
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://t.me/obl_ivi_ate" target="_blank" rel="noopener noreferrer">
+                                telegram  
+                            </a>
+                        </li>
+                    </ol>
+                </section>
             </div>
             <aside class="resume__aside">
                 <span>Русский язык - носитель. Английский язык - B1.</span>
@@ -102,6 +127,7 @@
                 color: $accent;
             }
         }
+
         &__download {
             display: flex;
             justify-content: space-between;
@@ -134,37 +160,93 @@
         &__content {
             display: flex;
             justify-content: space-between;
+            flex-wrap: wrap;
+            row-gap: 2dvh;
             width: 100%;
             margin-bottom: 2em;
 
             &-item {
-                width: 32%;
+                position: relative;
+                width: 32.5%;
+                height: 40dvh;
                 padding: 1em;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
                 border: 1px solid $accent;
                 border-radius: 0.4em;
 
+                &::before {
+                    content: '';
+                    width: 100%;
+                    position: absolute;
+                    height: 10%;
+                    top: 0;
+                    left: 0;
+                    z-index: 2;
+                    background: $main-light;
+                    background: linear-gradient(180deg, $main-light 0%, $main-light 53%, rgba(0,212,255,0) 100%);
+                }
+
+                &::after {
+                    content: '';
+                    width: 100%;
+                    position: absolute;
+                    height: 10%;
+                    bottom: 0;
+                    left: 0;
+                    background: $main-light;
+                    background: linear-gradient(0deg, $main-light 0%, $main-light 53%, rgba(0,212,255,0) 100%);
+                }
+
                 h3 {
+                    width: fit-content;
                     font-size: 1.5em;
+                    background-color: $main-light;
+                    margin-top: -1.3em;
                     letter-spacing: 0.1em;
                     text-transform: uppercase;
-                    text-align: center;
-                    padding: 0.5em 0 1.5em;
+                    padding: 0 0.5em;
+                    z-index: 3;
                 }
 
                 &-wrap {
                     display: flex;
                     flex-direction: column;
+                    padding: 1.5em 0.15em;
                     gap: 1em;
+                    max-height: 100%;
+                    overflow: auto;
+
+                    &::-webkit-scrollbar {
+                        width: 0;
+                    }
 
                     &_skills {
                         flex-direction: row;
                         flex-wrap: wrap;
+                    }
 
-                        li {
-                            background-color: $accent2;
-                            padding: 0.3em 0.5em;
-                            border-radius: 0.5em;
-                            box-shadow: 0 0 0 1em #ffffff77 inset;
+                    &_socials {
+                        padding: 0.5em 0;
+                        width: 100%;
+                        flex-direction: row;
+                        justify-content: space-around;
+                    }
+
+                    &_skills li,
+                    &_socials li {
+                        background-color: $accent2;
+                        padding: 0.3em 0.5em;
+                        border-radius: 0.5em;
+                        box-shadow: 0 0 0 1em #ffffff77 inset;
+                        transition: all 0.3s;
+
+                        a {
+                            @include hover {
+                                color: $accent;
+                                text-shadow: 0 0 0.1em rgba(54, 53, 0, 0.459);                                
+                            }
                         }
                     }
                 }
@@ -183,6 +265,7 @@
                         font-style: italic;
                         font-weight: 400;
                         margin-bottom: 0.5em;
+                        margin-top: 0.5em;
                     }
 
                     p {
@@ -194,6 +277,12 @@
                         list-style: inside;
                         font-size: 0.8em;
                     }
+                }
+
+                &:last-child {
+                    width: 100%;
+                    height: fit-content;
+                    padding: 1em 0 0.3em;
                 }
 
                 &-mark {
