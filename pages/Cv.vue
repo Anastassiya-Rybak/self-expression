@@ -2,6 +2,7 @@
     <NuxtLayout name="custom">
         <section class="resume page-content">
             <h1 class="resume__title title">Резюме</h1>
+            <p class="resume__status">Актуальный статус - <span> активно ищу работу</span></p>
             <div class="resume__download">
                 <h2>Тут можно скачать резюме</h2>
                 <button>Скачать</button>
@@ -91,12 +92,22 @@
 
 <style lang="scss" scoped>
     .resume {
+        &__status {
+            font-size: 1.2em;
+            letter-spacing: 0.08em;
+            margin: 2em 0 1em;
+
+            span {
+                font-weight: 800;
+                color: $accent;
+            }
+        }
         &__download {
             display: flex;
             justify-content: space-between;
             align-items: center;
             width: 35%;
-            margin: 2em 0;
+            margin-bottom: 2em;
 
             h2 {
                 font-size: 1.2em;
