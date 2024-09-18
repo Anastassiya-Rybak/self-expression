@@ -23,6 +23,9 @@
                     <NuxtImg :src="/">
                 </a> -->
             </div>
+            <aside>
+                <p>* Все окошки реагируют на прокрутку :)</p>
+            </aside>
         </section>
     </NuxtLayout>
 </template>
