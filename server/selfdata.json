@@ -4,6 +4,15 @@
     "about-me": "",
     "portfolio": [
         {
+            "name": "iskra-service",
+            "type": "multi",
+            "desc": "Многостраничный сайт-каталог.",
+            "url": "https://65b522c4d130b8ad30e106a9--astounding-bavarois-fdba8f.netlify.app/",
+            "stack": ["Nuxt3", "SASS", "Pinia", "Rest API", "Figma"],
+            "img": "iskra-service.png",
+            "js-practice": false
+        },
+        {
             "name": "",
             "desc": "",
             "url": "",
