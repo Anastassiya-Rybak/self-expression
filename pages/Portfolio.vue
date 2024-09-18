@@ -13,9 +13,9 @@
                     <li class="portfolio__nav-item">
                         <NuxtLink active-class="portfolio__nav-item_active" to="/Portfolio/multi">Многостраничные</NuxtLink>
                     </li>
-                    <!-- <li>
-                        <NuxtLink to="/Portfolio/practice">Практика</NuxtLink>
-                    </li> -->
+                    <li class="portfolio__nav-item">
+                        <NuxtLink active-class="portfolio__nav-item_active" to="/Portfolio/practice">Практика</NuxtLink>
+                    </li>
                 </ul>
             </nav>
             <div class="portfolio__content">
