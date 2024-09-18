@@ -1,0 +1,79 @@
+{
+    "name": "Рыбак Анастасия",
+    "specialization": "Frontend разработчик",
+    "about-me": "",
+    "portfolio": [
+        {
+            "name": "",
+            "desc": "",
+            "url": "",
+            "stack": [],
+            "img": [],
+            "js-practice": false
+        },
+        {
+            "name": "",
+            "desc": "",
+            "url": "",
+            "stack": [],
+            "img": [],
+            "js-practice": false
+        },
+        {
+            "name": "",
+            "desc": "",
+            "url": "",
+            "stack": [],
+            "img": [],
+            "js-practice": false
+        },
+        {
+            "name": "",
+            "desc": "",
+            "url": "",
+            "stack": [],
+            "img": [],
+            "js-practice": false
+        },
+        {
+            "name": "",
+            "desc": "",
+            "url": "",
+            "stack": [],
+            "img": [],
+            "js-practice": false
+        }
+    ],
+    "skills": ["JavaScript", "TypeScript", "Vue3", "Nuxt3", "Bootstrap", "SASS", "CSS3", "HTML5", "Mail marketing", "Figma", "PixelPerfect", "Git", "MySQL", "Rest API", "Jest", "NodeJS", "Docker", "1C"],
+    "contacts": [
+        {
+            "name": "WhatsApp",
+            "link": "tel:87776840869"
+        },
+        {
+            "name": "Telegram",
+            "nick": "obl_ivi_ate",
+            "link": "https://t.me/obl_ivi_ate"
+        },
+        {
+            "name": "Mail",
+            "nick": "vyacheslavovna.an@mail.ru",
+            "link": "mailto:vyacheslavovna.an@mail.ru"
+        },
+        {
+            "name": "GitHub",
+            "nick": "Anastassiya-Rybak",
+            "link": "https://github.com/Anastassiya-Rybak"
+        },
+        {
+            "name": "Linkedin",
+            "nick": "linkedin",
+            "link": "/"
+        },
+        {
+            "name": "Instagram",
+            "nick": "@_obl_ivi_ate_",
+            "link": "https://www.instagram.com/_obl_ivi_ate_/"
+        }
+    ]
+}
