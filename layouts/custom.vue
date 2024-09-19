@@ -2,7 +2,7 @@
     <section class="custom-layout container">
         <TheSideBar />
         <slot class="page-content" />
-        <TheCompactBar />
+        <TheCompactBar class="custom-layout__aside"/>
     </section>
 </template>
 
@@ -14,5 +14,9 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
+
+        &__aside {
+            width: 6%;
+        }
     }
 </style>

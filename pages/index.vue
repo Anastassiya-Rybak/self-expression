@@ -6,7 +6,7 @@
             <h1>Рыбак Анастасия</h1>
             <p>Я - Frontend разработчик.</p>
         </section>
-        <TheCompactBar />
+        <TheCompactBar class="main-page__bar" />
     </div>
 </template>
 
@@ -53,6 +53,10 @@
                 letter-spacing: -0.06em;
                 word-spacing: 0.5em;
             }
+        }
+
+        &__bar {
+            width: 10%;
         }
     }
 </style>

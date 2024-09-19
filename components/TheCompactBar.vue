@@ -42,10 +42,9 @@
 
 <style lang="scss" scoped>
     .bar {
-        width: 6%;
         height: 50dvh;
         background-color: $accent;
-        padding: 2em 1.8em;
+        padding: 2.5em 1.8em 1em;
         border-radius: 40px;
         box-shadow: 0 0 1em rgba(77, 67, 41, 0.226);
         
