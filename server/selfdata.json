@@ -9,48 +9,47 @@
             "desc": "Многостраничный сайт-каталог.",
             "url": "https://65b522c4d130b8ad30e106a9--astounding-bavarois-fdba8f.netlify.app/",
             "stack": ["Nuxt3", "SASS", "Pinia", "Rest API", "Figma"],
-            "img": "iskra-service.png",
             "js-practice": false
         },
         {
-            "name": "",
+            "name": "stomatology",
+            "type": "landing",
             "desc": "",
-            "url": "",
+            "url": "https://anastassiya-rybak.github.io/landing-stomatology/",
             "stack": [],
-            "img": [],
             "js-practice": false
         },
         {
-            "name": "",
-            "desc": "",
-            "url": "",
+            "name": "lime-trip",
+            "type": "multi",
+            "desc": "Сайт турагенства.",
+            "url": "https://658ac6e0818c429074285da1--brilliant-narwhal-a9c5a7.netlify.app/",
             "stack": [],
-            "img": [],
             "js-practice": false
         },
         {
-            "name": "",
+            "name": "nrb",
+            "type": "landing",
             "desc": "",
-            "url": "",
+            "url": "https://anastassiya-rybak.github.io/landing-page-NRB-consulting-group/",
             "stack": [],
-            "img": [],
             "js-practice": false
         },
         {
-            "name": "",
+            "name": "keyboard",
+            "type":"practice",
             "desc": "",
-            "url": "",
+            "url": "https://anastassiya-rybak.github.io/virtual-keyboard/",
             "stack": [],
-            "img": [],
-            "js-practice": false
+            "js-practice": true
         },
         {
-            "name": "",
-            "desc": "",
-            "url": "",
+            "name": "minesweeper",
+            "type": "practice",
+            "desc": "Кастомная копия игры сапёр.",
+            "url": "https://anastassiya-rybak.github.io/minesweeper-game/",
             "stack": [],
-            "img": [],
-            "js-practice": false
+            "js-practice": true
         }
     ],
     "skills": ["JavaScript", "TypeScript", "Vue3", "Nuxt3", "Bootstrap", "SASS", "CSS3", "HTML5", "Mail marketing", "Figma", "PixelPerfect", "Git", "MySQL", "Rest API", "Jest", "NodeJS", "Docker", "1C"],
